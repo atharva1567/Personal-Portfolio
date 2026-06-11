@@ -1,4 +1,4 @@
-# 🚀 Pranav Chopra - AI/ML Engineer & Full Stack Developer
+# 🚀 Atharva Ghodke - AI/ML Engineer & Full Stack Developer
 
 > Software Engineering Co-op Student at Western University**  
 > Available for Summer 2026 Full-Time Internships (May-August)**
