@@ -1,7 +1,7 @@
-# 🚀 Atharva Ghodke - AI/ML Engineer & Full Stack Developer
+# 🚀 Atharva Ghodke - Student Automation Engineer
 
-> Software Engineering Co-op Student at Western University**  
-> Available for Summer 2026 Full-Time Internships (May-August)**
+> Automation Systems Engineering Co-op Student at McMaster University**  
+> Software Automation Engineer @ BOXX Insurance (May-August)**
 
 ---
 
@@ -183,22 +183,3 @@ npm start
 3. **Testing**: Test on multiple devices and screen sizes
 4. **Build**: Run `npm run build` to check for any build errors
 5. **Deploy**: Push to GitHub and deploy to your preferred hosting platform
-
----
-
-##  **Connect With Me**
-
-- **💼 LinkedIn**: [pchopr2](https://www.linkedin.com/in/pchopr2/)
-- **🐙 GitHub**: [prananchh](https://github.com/prananchh)
-- **📧 Email**: [pranav.chopra06@gmail.com](mailto:pranav.chopra06@gmail.com)
-- **📱 Phone**: +1 (437) 213-4288
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-**Made with ❤️ by Pranav Chopra**
-
-</div>
