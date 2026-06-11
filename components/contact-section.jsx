@@ -26,8 +26,8 @@ export default function ContactSection() {
     {
       icon: Mail,
       label: "Email",
-      value: "atharva.ghodke@gmail.com",
-      href: "mailto:atharva.ghodke@gmail.com",
+      value: "atharva.gwork1@gmail.com",
+      href: "mailto:atharva.gwork1@gmail.com",
     },
     {
       icon: Linkedin,
