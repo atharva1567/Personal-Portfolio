@@ -10,7 +10,7 @@
 This is my personal portfolio website showcasing my skills, experience, and projects. Built with modern web technologies, it features smooth animations, responsive design, and a unique PDF resume download system that demonstrates my technical capabilities.
 
 ---
-
+.
 **Tech Stack & How It All Works Together**
 
 ### **Core Framework: Next.js 14**
