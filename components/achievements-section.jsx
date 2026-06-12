@@ -9,7 +9,7 @@ export default function AchievementsSection() {
       title: "McMaster University Award of Excellence",
       issuer: "McMaster University",
       date: "Sep 2025",
-      association: "Faculty of Engineering - McMaster University",
+      association: "Bachelor of Technology - Automation Systems Engineering (Co-op)",
       description:
         "Recipient of an Entrance Scholarship for Automation Systems Engineering (Co-op), awarded in recognition of Grade 12 cumulative average within the top 10% of the program.",
     },
