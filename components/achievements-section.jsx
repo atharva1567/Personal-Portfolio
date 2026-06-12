@@ -11,7 +11,7 @@ export default function AchievementsSection() {
       date: "Sep 2025",
       association: "Faculty of Engineering - McMaster University",
       description:
-        "Recipient of an Entrance Scholarship for Automation Systems Engineering (Co-op), awarded in recognition of a Grade 12 cumulative average within the top 10% of the Faculty of Engineering.",
+        "Recipient of an Entrance Scholarship for Automation Systems Engineering (Co-op), awarded in recognition of Grade 12 cumulative average within the top 10% of the program.",
     },
     {
       icon: GraduationCap,
