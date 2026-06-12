@@ -86,40 +86,6 @@ components/
 
 ---
 
-##  **Getting Started**
-
-### **Prerequisites**
-```bash
-Node.js 18+ 
-npm 8+
-```
-
-### **Installation & Development**
-```bash
-# Clone the repository
-git clone https://github.com/prananchh/Pranav_Portfolio.git
-
-# Navigate to project directory
-cd Pranav_Portfolio
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### **Build for Production**
-```bash
-# Create production build
-npm run build
-
-# Start production server
-npm start
-```
-
----
-
 ## 📱 **Responsive Design System**
 
 - **Mobile-First**: Designed for mobile devices first, then enhanced for larger screens

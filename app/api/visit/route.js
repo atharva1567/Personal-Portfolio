@@ -21,7 +21,7 @@ export async function GET(request) {
       timeStyle: "long",
     })
 
-    if (count % 5 === 0) {
+    if (count % 20 === 0) {
       const { data, error } = await resend.emails.send({
         from: "Portfolio Alerts <onboarding@resend.dev>",
         to: process.env.VISITOR_ALERT_EMAIL,
