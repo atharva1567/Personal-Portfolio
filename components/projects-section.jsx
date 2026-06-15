@@ -21,6 +21,16 @@ export default function ProjectsSection() {
     },
     {
       id: 2,
+      title: "VisionINK AI",
+      subtitle: "AI-Powered Gesture-Controlled Virtual Whiteboard",
+      description: 
+      "VisionINK AI is an AI-powered virtual whiteboard that enables users to draw, write, and teach using hand gestures captured through a webcam. Leveraging OpenCV and MediaPipe for real-time hand tracking, the platform provides a touchless digital writing experience with integrated face anonymization for privacy-conscious demonstrations.",
+      github: "https://github.com/atharva1567/VisionINK-AI",
+      technologies: ["Python", "OpenCV", "MediaPipe", "TensorFlow Lite"],
+      gradient: "from-[#7A003C] to-[#D6A100]",
+    },
+    {
+      id: 3,
       title: "CodeLink",
       subtitle: "Offline Multi-Language Code Translator",
       description:
@@ -30,7 +40,7 @@ export default function ProjectsSection() {
       gradient: "from-[#A6192E] to-[#7A003C]",
     },
     {
-      id: 3,
+      id: 4,
       title: "UNO Console Edition",
       subtitle: "Object-Oriented C++ Card Game",
       description:
@@ -40,7 +50,7 @@ export default function ProjectsSection() {
       gradient: "from-[#D6A100] to-[#A6192E]",
     },
     {
-      id: 4,
+      id: 5,
       title: "Operational Graphing Calculator",
       subtitle: "Interactive Mathematical Visualization Tool",
       description:
