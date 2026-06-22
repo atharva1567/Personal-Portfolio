@@ -237,9 +237,17 @@ export default function ContactSection() {
               </div>
 
               <p className="text-zinc-400 leading-relaxed">
-                Automation Systems Engineering (Co-op) student at McMaster University, building projects across AI,
-                computer vision, automation, and full-stack software.
-              </p>
+  Automation Systems Engineering (Co-op) student at McMaster University, building projects across AI, computer vision, automation, and full-stack software.
+
+  <br />
+  <br />
+
+  Software Automation Engineer @ BOXX Insurance
+
+  <br />
+
+  Webmaster & Student Member @ AIAA McMaster
+</p>
 
               <p className="text-zinc-500 mt-4">Toronto / Hamilton, Ontario</p>
             </div>
