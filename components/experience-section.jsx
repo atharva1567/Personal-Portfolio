@@ -27,17 +27,19 @@ export default function ExperienceSection() {
     },
     {
       id: 2,
-      title: "Student Member",
+      title: "WebMaster & Student Member",
       company: "American Institute of Aeronautics & Astronautics (AIAA)",
       period: "2026 - Present",
       location: "Hamilton, Ontario, Canada",
       current: true,
       description: [
-        "Member of a leading aerospace technical society focused on aerospace engineering and emerging technologies.",
-        "Exploring aerospace, engineering, automation systems, and advanced technology initiatives.",
-        "Engaging with professional engineering resources, technical publications, and industry developments.",
+        "Serving as Webmaster while actively contributing as a Student Member of AIAA McMaster.",
+        "Designing, developing, and maintaining the AIAA McMaster website to showcase projects, events, and branch initiatives.",
+        "Collaborating with executive members to strengthen the organization's digital presence and increase student engagement.",
+        "Engaging with aerospace engineering resources, technical publications, and emerging industry developments.",
       ],
-      technologies: ["Aerospace", "Engineering", "Technology", "Systems Thinking"],
+
+      technologies: ["Aerospace", "UI/UX Design", "Technology", "Web Development"],
     },
     {
       id: 3,
