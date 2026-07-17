@@ -72,7 +72,7 @@ export default function AboutSection() {
                 <p>
                   At BOXX Insurance, I'm developing OCR and computer vision pipelines for broker PDF processing,
                   checkbox detection, field mapping, and structured JSON outputs for internal underwriting workflows. 
-                  & At FlyRank AI, I'm learning machine learning models for automated data analysis and predictions. 
+                  At FlyRank AI, I'm learning machine learning models for automated data analysis and predictions. 
                 </p>
 
                 <p>
