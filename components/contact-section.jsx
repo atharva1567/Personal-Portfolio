@@ -207,7 +207,7 @@ export default function ContactSection() {
               {status === "loading" ? "Sending..." : "Send Message"}
               <Send size={20} className="ml-3" />
             </button>
-
+            
             {status === "success" && (
               <div className="mt-5 flex items-center justify-center gap-2 text-green-400">
                 <CheckCircle size={20} />

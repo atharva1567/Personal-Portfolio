@@ -25,8 +25,25 @@ export default function ExperienceSection() {
       ],
       technologies: ["Python", "OpenCV", "Tesseract OCR", "OCR", "Computer Vision", "JSON", "Agile"],
     },
+
     {
       id: 2,
+      title: "Machine Learning Engineer",
+      company: "FlyRank AI",
+      period: "July 2026 - Present",
+      location: "Toronto, Ontario, Canada · Remote",
+      current: true,
+      description: [
+        "Selected for FlyRank AI's Machine Learning internship program.",
+        "Develop machine learning solutions through hands-on technical projects, model implementation, and practical AI applications.",
+        "Build foundational skills across the machine learning workflow while completing project-based milestones and an end-to-end capstone.",
+        "Collaborate within a self-paced engineering cohort to strengthen applied AI and software development skills.",
+      ],
+      technologies: ["Python", "Machine Learning", "Artificial Intelligence", "Scikit-learn", "Git", "TensorFlow"],
+    },
+
+    {
+      id: 3,
       title: "WebMaster & Student Member",
       company: "American Institute of Aeronautics & Astronautics (AIAA)",
       period: "2026 - Present",
@@ -42,7 +59,7 @@ export default function ExperienceSection() {
       technologies: ["Aerospace", "UI/UX Design", "Technology", "Web Development"],
     },
     {
-      id: 3,
+      id: 4,
       title: "General Member",
       company: "Google Developer Groups @ McMaster",
       period: "2026 - Present",
@@ -56,7 +73,7 @@ export default function ExperienceSection() {
       technologies: ["Software Development", "AI", "Community", "Technology"],
     },
     {
-      id: 4,
+      id: 5,
       title: "Mock Trial Lawyer",
       company: "Ontario Justice Education Network (OJEN)",
       period: "Sep 2023 - Jun 2025",
@@ -71,7 +88,7 @@ export default function ExperienceSection() {
       technologies: ["Legal Research", "Public Speaking", "Team Building", "Critical Thinking"],
     },
     {
-      id: 5,
+      id: 6,
       title: "Flight Sergeant",
       company: "Royal Canadian Air Cadets",
       period: "Sep 2020 - Jun 2025",
@@ -86,7 +103,7 @@ export default function ExperienceSection() {
       technologies: ["Leadership", "Discipline", "Organization", "Communication", "Teamwork"],
     },
     {
-      id: 6,
+      id: 7,
       title: "Data Entry & Operations Coordinator",
       company: "Kumon Canada, Inc.",
       period: "Aug 2022 - Aug 2024",
@@ -101,7 +118,7 @@ export default function ExperienceSection() {
       technologies: ["Data Entry", "Customer Service", "Operations", "Scheduling"],
     },
     {
-      id: 7,
+      id: 8,
       title: "Teaching Instructor",
       company: "Kumon Canada, Inc.",
       period: "Aug 2022 - Aug 2024",
@@ -116,7 +133,7 @@ export default function ExperienceSection() {
       technologies: ["Tutoring", "Educational Assessment", "Instructional Support", "Communication"],
     },
     {
-      id: 8,
+      id: 9,
       title: "Assistant Soccer Coach",
       company: "Royal City Soccer Club",
       period: "Jun 2023 - Aug 2023",
