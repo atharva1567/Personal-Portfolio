@@ -58,21 +58,14 @@ export default function AboutSection() {
               <div className="space-y-4 text-zinc-400 text-lg leading-relaxed">
                 <p>
                   Hey! I'm Atharva Ghodke, an Automation Systems Engineering student at 
-                  McMaster University, currently working as a Software Automation Engineer 
-                  at BOXX Insurance, a Machine Learning Engineer Intern at 
-                  FlyRank AI, and serving as one of the WebMasters for AIAA at McMaster.
+                  McMaster University, currently working as a Machine Learning Engineer Intern at 
+                  FlyRank AI, serving as one of the WebMasters for AIAA at McMaster, and a Software Developer (Executive Member) for McMaster Cyber Society
                 </p>
 
                 <p>
                   My interests sit at the intersection of artificial intelligence, computer vision, automation, and
                   software engineering. I enjoy building systems that automate complex workflows, extract meaningful data,
                   and turn real-world problems into practical software solutions.
-                </p>
-
-                <p>
-                  At BOXX Insurance, I'm developing OCR and computer vision pipelines for broker PDF processing,
-                  checkbox detection, field mapping, and structured JSON outputs for internal underwriting workflows. 
-                  At FlyRank AI, I'm learning machine learning models for automated data analysis and predictions. 
                 </p>
 
                 <p>

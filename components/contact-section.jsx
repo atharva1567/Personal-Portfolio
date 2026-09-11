@@ -242,11 +242,19 @@ export default function ContactSection() {
   <br />
   <br />
 
-  Software Automation Engineer @ BOXX Insurance
+  Machine Learning Engineer Intern @ FlyRank AI
 
   <br />
 
-  Webmaster & Student Member @ AIAA McMaster
+  Software Developer @ McMaster Cybers Society 
+
+  <br /> 
+
+  WebMaster & Student Member @ McMaster AIAA
+   
+  <br /> 
+
+   General Member @ McMaster Google Developer Groups on Campus (GDG)
 </p>
 
               <p className="text-zinc-500 mt-4">Toronto / Hamilton, Ontario</p>

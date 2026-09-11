@@ -13,7 +13,8 @@ export default function HeroSection() {
   const titles = [
     "Software Automation Engineer @ BOXX Insurance",
     "Machine Learning Engineer @ FlyRank AI",
-    "WebMaster @ AIAA "
+    "WebMaster @ AIAA",
+    "Software Developer @ McMaster Cyber Society",
   ]
 
   const skills = [
