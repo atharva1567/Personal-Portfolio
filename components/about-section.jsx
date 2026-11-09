@@ -58,8 +58,7 @@ export default function AboutSection() {
               <div className="space-y-4 text-zinc-400 text-lg leading-relaxed">
                 <p>
                   Hey! I'm Atharva Ghodke, an Automation Systems Engineering student at 
-                  McMaster University, currently working as a Machine Learning Engineer Intern at 
-                  FlyRank AI, serving as one of the WebMasters for AIAA at McMaster, and a Software Developer (Executive Member) for McMaster Cyber Society
+                  McMaster University, researching at Exea Labs, serving as one of the WebMasters for AIAA at McMaster, and a Software Developer (Executive Member) for McMaster Cyber Society
                 </p>
 
                 <p>
@@ -69,7 +68,7 @@ export default function AboutSection() {
                 </p>
 
                 <p>
-                  Outside of engineering, my background in Air Cadets, Mock trial, Tutoring, and Coaching has shaped how I
+                  Outside of engineering, my background in Air Cadets, Mock trial and Coaching has shaped how I
                   approach leadership, communication, discipline, and problem-solving under pressure.
                 </p>
               </div>

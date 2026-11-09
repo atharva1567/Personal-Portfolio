@@ -11,7 +11,7 @@ export default function HeroSection() {
   const [currentTitle, setCurrentTitle] = useState(0)
 
   const titles = [
-    "Machine Learning Engineer @ FlyRank AI",
+    "AI Researcher @ Exea Labs",
     "WebMaster @ AIAA",
     "Software Developer @ McMaster Cyber Society",
   ]

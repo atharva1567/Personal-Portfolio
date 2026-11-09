@@ -88,7 +88,6 @@ export function InteractiveButton({ children, onClick, variant = "primary", size
 // Hover card with micro interactions
 export function HoverCard({ children, className = "", hoverScale = 1.05 }) {
   const [isHovered, setIsHovered] = useState(false)
-
   return (
     <div
       className={`transition-all duration-300 cursor-pointer ${className}`}
