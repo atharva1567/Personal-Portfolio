@@ -242,15 +242,15 @@ export default function ContactSection() {
   <br />
   <br />
 
-  Machine Learning Engineer Intern @ FlyRank AI
+  AI Researcher @ Exea Labs
 
   <br />
 
-  Software Developer @ McMaster Cybers Society 
+  Software Developer @ McMaster Cyber Society 
 
   <br /> 
 
-  WebMaster & Student Member @ McMaster AIAA
+  WebMaster @ McMaster AIAA
    
   <br /> 
 
