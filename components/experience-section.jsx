@@ -11,59 +11,53 @@ export default function ExperienceSection() {
 
   const professionalExperiences = [
     {
-      id: 1,
-      title: "Software Automation Engineer",
-      company: "BOXX Insurance Inc.",
-      period: "May 2026 - August 2026",
-      location: "Toronto, Ontario, Canada · Hybrid",
-      current: false,
+      id: 12,
+      title: "AI Researcher",
+      company: "Exea Labs",
+      period: "Oct 2026 - Present",
+      location: "Toronto, Ontario, Canada",
+      current: true,
       description: [
-        "Developed OCR and computer vision pipelines for automated data extraction from broker PDFs.",
-        "Designed checkbox detection and mapping systems to link form fields to underwriting questions.",
-        "Produced structured JSON outputs for internal underwriting workflows.",
-        "Collaborated with developers, QA teams, the Scrum Master, and the Technical Product Owner to refine requirements and deliver iterative demos.",
+        "Conducting applied research in quantitative modeling and machine learning.",
+        "Designing, implementing, and evaluating machine learning models on quantitative research problems.",
+        "Collaborating with the Exea Labs team to turn research findings into practical, testable systems.",
       ],
       technologies: [
+        "Quantitative Research",
+        "Machine Learning",
         "Python",
-        "OpenCV",
-        "Tesseract OCR",
-        "OCR",
-        "Computer Vision",
-        "JSON",
-        "Agile",
+        "Artificial Intelligence",
       ],
     },
 
     {
-      id: 2,
-      title: "Machine Learning Engineer",
-      company: "FlyRank AI",
-      period: "July 2026 - Present",
-      location: "Toronto, Ontario, Canada · Remote",
+      id: 4,
+      title: "Software Developer",
+      company: "McMaster Cyber Society",
+      period: "Sep 2026 - Present",
+      location: "Hamilton, Ontario, Canada · Hybrid",
       current: true,
       description: [
-        "Selected for FlyRank AI's Machine Learning internship program.",
-        "Developing machine learning solutions through hands-on technical projects, model implementation, and practical AI applications.",
-        "Building foundational skills across the machine learning workflow through project-based milestones and an end-to-end capstone.",
-        "Collaborating within a self-paced engineering cohort to strengthen applied AI and software development skills.",
+        "Developing and maintaining software solutions for McMaster Cyber Society's digital initiatives.",
+        "Collaborating with the executive team to build and improve web-based tools and resources for the cybersecurity community.",
+        "Contributing to software development projects using modern web technologies and collaborative Git workflows.",
       ],
       technologies: [
-        "Python",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Scikit-learn",
+        "Cybersecurity",
+        "Cisco Advanced Malware Protection (AMP)",
+        "React",
+        "Software Development",
         "Git",
-        "TensorFlow",
+        "GitHub",
       ],
     },
 
     {
       id: 3,
-      title: "WebMaster & Student Member",
-      company:
-        "American Institute of Aeronautics & Astronautics (AIAA) @ McMaster",
+      title: "WebMaster",
+      company: "McMaster AIAA Student Branch",
       period: "Jun 2026 - Present",
-      location: "Hamilton, Ontario, Canada",
+      location: "Hamilton, Ontario, Canada · Hybrid",
       current: true,
       description: [
         "Serving as Webmaster while actively contributing as a Student Member of AIAA McMaster.",
@@ -73,7 +67,7 @@ export default function ExperienceSection() {
       ],
       technologies: [
         "Web Development",
-        "UI/UX Design",
+        "User Experience (UX)",
         "Aerospace",
         "Leadership",
         "Technology",
@@ -81,23 +75,49 @@ export default function ExperienceSection() {
     },
 
     {
-      id: 4,
-      title: "Software Developer",
-      company: "McMaster Cyber Society",
-      period: "Sep 2026 - Present",
-      location: "Hamilton, Ontario, Canada",
-      current: true,
+      id: 2,
+      title: "Machine Learning Engineer",
+      company: "FlyRank AI · Internship",
+      period: "Jul 2026 - Oct 2026",
+      location: "Toronto, Ontario, Canada · Remote",
+      current: false,
       description: [
-        "Developing and maintaining software solutions for McMaster Cyber Society's digital initiatives.",
-        "Collaborating with the executive team to build and improve web-based tools and resources for the cybersecurity community.",
-        "Contributing to software development projects using modern web technologies and collaborative Git workflows.",
+        "Selected for FlyRank AI's Machine Learning internship program.",
+        "Developed machine learning solutions through hands-on technical projects, model implementation, and practical AI applications.",
+        "Built foundational skills across the machine learning workflow through project-based milestones and an end-to-end capstone.",
+        "Collaborated within a self-paced engineering cohort to strengthen applied AI and software development skills.",
       ],
       technologies: [
-        "React",
-        "Cybersecurity",
-        "Software Development",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Python",
+        "Scikit-learn",
+        "TensorFlow",
         "Git",
-        "GitHub",
+      ],
+    },
+
+    {
+      id: 1,
+      title: "Software Automation Engineer",
+      company: "BOXX Insurance Inc. · Co-op",
+      period: "May 2026 - Aug 2026",
+      location: "Toronto, Ontario, Canada · Hybrid",
+      current: false,
+      description: [
+        "Developed OCR and computer vision pipelines for automated data extraction from broker PDFs.",
+        "Designed checkbox detection and mapping systems to link form fields to underwriting questions.",
+        "Produced structured JSON outputs for internal underwriting workflows.",
+        "Collaborated with developers, QA teams, the Scrum Master, and the Technical Product Owner to refine requirements and deliver iterative demos.",
+      ],
+      technologies: [
+        "OpenCV",
+        "Tesseract OCR",
+        "Python",
+        "OCR",
+        "Computer Vision",
+        "JSON",
+        "Agile",
       ],
     },
 
@@ -384,7 +404,7 @@ export default function ExperienceSection() {
             </h3>
 
             <p className="text-zinc-500">
-              Co-op, internships, technical roles, and engineering communities.
+              Research, co-op, internships, technical roles, and engineering communities.
             </p>
           </div>
 
